@@ -1,5 +1,6 @@
 # Bitcoin Prediction
 Open "Bitcoin Price Prediction.ipynb" to view the prediction system.
+
 Algorithms used:
   1. Ridge Regression
   2. Random Forest Regression
